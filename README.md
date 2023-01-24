@@ -2,6 +2,6 @@
 
 ### Integrantes
 - Alejandro Aké 
-- Carlos Greene @CarlosGreene
-- Estaban Pacheco @Este538
-- Jacob Uc @JacobUc
+- Carlos Greene
+- Estaban Pacheco
+- Jacob Uc
