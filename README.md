@@ -11,7 +11,7 @@
  
 - [Esteban Pacheco](https://github.com/Este538)
 
-![Esteban Pacheco Image](https://raw.githubusercontent.com/JacobUc/Proyecto-Interaccion-Humano-Computadora/master/Assets/Esteban_Pacheco.jpg)
+<img src = "https://i.postimg.cc/4db58XT2/Whats-App-Image-2022-06-18-at-4-10-21-PM.jpg" width = "200" height = "200">
 
 - [Jacob Uc](https://github.com/JacobUc)
 
