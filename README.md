@@ -8,4 +8,6 @@
  
 - [Esteban Pacheco](https://github.com/Este538)
 - [Jacob Uc](https://github.com/JacobUc)
+
+[Link al video de TutoProf](https://www.youtube.com/watch?v=xqn53MnBz2Q)
  
